@@ -1,0 +1,4 @@
+product: jetpack-crm-api-docs
+current_source: official
+official:
+  url: https://github.com/Automattic/jetpack-crm-api-docs.git
